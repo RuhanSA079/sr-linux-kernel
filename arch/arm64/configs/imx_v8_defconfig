@@ -1,3 +1,5 @@
+# Add IIO support for SHTC3
+CONFIG_SHTC3=y
 #Add GPIO subsystem support
 CONFIG_SYSFS=y
 #Add support for 1-wire on i2c
