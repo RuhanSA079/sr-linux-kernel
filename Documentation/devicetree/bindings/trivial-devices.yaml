@@ -376,6 +376,8 @@ properties:
           - winbond,w83793
             # i2c trusted platform module (TPM)
           - winbond,wpct301
+            # Sensirion humidity and temperature sensor with I2C interface
+          - sensirion,shtc3
 
 required:
   - compatible
